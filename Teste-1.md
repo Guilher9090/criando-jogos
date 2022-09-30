@@ -1,9 +1,8 @@
-# Sistema de cadastro de Sites
-
+# Sistema de cadastro de jogos
 > status do projeto: Em desenvolvimento
 
 Para rodar esse projeto na sua maquina, por favor digite:        
 
 '''
-rpm install react
+node app.js
 '''
